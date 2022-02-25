@@ -1,0 +1,6 @@
+Berkenalan dengan gin
+handler
+path variabel dan query string
+http post & json binding
+http post & json validation
+menampilkan error validasi
